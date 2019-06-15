@@ -1,3 +1,6 @@
 [submodule "submodules/beautiful-jekyll"]
 	path = submodules/beautiful-jekyll
 	url = https://github.com/daattali/beautiful-jekyll.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/daattali/beautiful-jekyll.git
